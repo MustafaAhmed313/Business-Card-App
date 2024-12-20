@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">BusinessCardApp</string>
+    <string name="app_name">Business Card</string>
+    <string name="android_logo">Android Logo</string>
+    <string name="my_name">Mustafa Ahmed</string>
+    <string name="my_job">Android Developer Extraordinaire</string>
+    <string name="phone_number">+20 101 686 8492</string>
+    <string name="email">mustafa@gmail.com</string>
+    <string name="share_info">\@AndroidDev</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="email_icon">Email Icon</string>
 </resources>
